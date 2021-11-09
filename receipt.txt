@@ -1,0 +1,68 @@
+*****Block Chain*****
+
+*Block 1 Information*
+Item: Gold Watch
+Owner: Greg Fisher
+Buyer: Fred Lane
+Price: 1500
+Auction House: Auction House 1
+Auction House 1 Balance: $5150
+Year: 1990
+
+*****************************************
+
+*Block 2 Information*
+Item: Glass Vase
+Owner: Jill Hill
+Buyer: Young Gambil
+Price: 430
+Auction House: Auction House 1
+Auction House 1 Balance: $5193
+Year: 1995
+
+*****************************************
+
+*Block 3 Information*
+Item: Gold Watch
+Owner: Fred Lane
+Buyer: Drake John
+Price: 2100
+Auction House: Auction House 1
+Auction House 1 Balance: $5403
+Year: 2000
+
+*****************************************
+
+*Block 4 Information*
+Item: Glass Vase
+Owner: Young Gambil
+Buyer: Flint Smith
+Price: 500
+Auction House: Auction House 2
+Auction House 2 Balance: $5050
+Year: 2010
+
+*****************************************
+
+*Block 5 Information*
+Item: Gold Watch
+Owner: Drake John
+Buyer: Hill Flint
+Price: 2500
+Auction House: Auction House 2
+Auction House 2 Balance: $5300
+Year: 2011
+
+*****************************************
+
+*Block 6 Information*
+Item: Glass Vase
+Owner: Flint Smith
+Buyer: Sam Wills
+Price: 600
+Auction House: Auction House 3
+Auction House 3 Balance: $5060
+Year: 2015
+
+*****************************************
+
